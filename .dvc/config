@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = gs://lauritsf_mlo0ps_data_bucket/test
